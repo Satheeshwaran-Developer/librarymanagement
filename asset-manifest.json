@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/librarymanagement/static/css/main.5f01776a.css",
+    "main.js": "/librarymanagement/static/js/main.b5aa5a9c.js",
+    "static/media/library bg4.png": "/librarymanagement/static/media/library bg4.17488c85ca365e3454b4.png",
+    "static/media/book logo.png": "/librarymanagement/static/media/book logo.17ce7802a57e8eafdf37.png",
+    "static/media/background library.jpg": "/librarymanagement/static/media/background library.4d5c9fdc0e18c8b9ebb0.jpg",
+    "static/media/library bg2.jpg": "/librarymanagement/static/media/library bg2.4bc8ce0f5f72eec4b2c7.jpg",
+    "static/media/library bg3.jpg": "/librarymanagement/static/media/library bg3.d32e53a5a2a3db15c219.jpg",
+    "static/media/Empty_Shopping_Cart_blog.webp": "/librarymanagement/static/media/Empty_Shopping_Cart_blog.d745264244533986a8d7.webp",
+    "index.html": "/librarymanagement/index.html",
+    "main.5f01776a.css.map": "/librarymanagement/static/css/main.5f01776a.css.map",
+    "main.b5aa5a9c.js.map": "/librarymanagement/static/js/main.b5aa5a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f01776a.css",
+    "static/js/main.b5aa5a9c.js"
+  ]
+}
